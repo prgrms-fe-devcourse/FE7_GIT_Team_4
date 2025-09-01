@@ -6,4 +6,4 @@
 - 자간 2칸, 탭 4칸
 - 브랜치 전략
   - 브랜치 네이밍 규칙
-  ```feature/login, fix/payment-bug, hotfix/server-error```
+  ```feat/login, fix/payment-bug, hotfix/server-error```
