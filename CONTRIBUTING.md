@@ -8,7 +8,7 @@
   - 브랜치 네이밍 규칙
   ```feat/login, fix/payment-bug, hotfix/server-error```
 - 커밋 메시지 규칙
-  - 형식 (예: <emoji> <type>: <message>)
+  - 형식 (예: `<emoji>` `<type>`: `<message>`)
   - type 목록 정의
     - ✨ feat: 새로운 기능
 	- 🐛 fix: 버그 수정
